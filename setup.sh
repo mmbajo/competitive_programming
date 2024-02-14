@@ -1,0 +1,1 @@
+ docker run -it --name codeforces_container -v ${PWD}/code:/codeforces codeforces_env

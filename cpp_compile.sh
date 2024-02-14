@@ -1,0 +1,1 @@
+g++ -o output 118A.cpp && ./output < input.txt
